@@ -1,0 +1,17 @@
+{
+  "hasTests": true,
+  "binaries": [
+    {
+      "name": "test.bin",
+      "offset": 65536
+    },
+    {
+      "name": "test.partitions.bin",
+      "offset": 32768
+    },
+    {
+      "name": "spiffs.bin",
+      "offset": 2166784
+    }
+  ]
+}
